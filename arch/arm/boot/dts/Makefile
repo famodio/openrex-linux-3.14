@@ -214,6 +214,7 @@ dtb-$(CONFIG_ARCH_MXC) += \
 	imx6sx-19x19-arm2-csi.dtb \
 	imx6sx-19x19-arm2-lcdif1.dtb \
 	imx6sx-19x19-arm2-gpmi-weim.dtb \
+	imx6s-openrex.dtb \
 	imx6sx-sdb.dtb \
 	imx6sx-sdb-btwifi.dtb \
 	imx6sx-sdb-ldo.dtb \
